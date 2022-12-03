@@ -1,0 +1,1 @@
+Machine Learning based classification project to check whether the mail we received is spam or not. It is trained on 4875 rows of data using SVM ( Support vector machine ) and got an accuracy of 0.98 on the test data set.
